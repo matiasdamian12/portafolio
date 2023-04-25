@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Portafolio realizado con Bootstrapmade modificado con mis datos,
+Se hizo el deploy con Netlify.
 
-Template Name: Personal
-Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Creado por Matias Di Domenico.
